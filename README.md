@@ -60,11 +60,11 @@ This project aims to efficiently compress hologram-like images while preserving 
 ---
 ###References
 
-[1] R. C. Gonzalez and R. E. Woods, Digital Image Processing, Pearson, 2018.
-[2] G. K. Wallace, “The JPEG Still Picture Compression Standard,” Communications of the ACM, 1992.
-[3] Z. Wang, A. Bovik, H. Sheikh, and E. Simoncelli, “Image Quality Assessment: From Error Visibility to Structural Similarity,” 2004.
-[4] J. W. Goodman, Introduction to Fourier Optics, 3rd Edition, Roberts & Company, 2005.
-[5]  An improved JPEG compression method for digital hologram based on adaptive quantization table. Lei Hu, Jinbin Gui, Xianfei Hu, Zhuojian Tong
+-[1] R. C. Gonzalez and R. E. Woods, Digital Image Processing, Pearson, 2018.
+-[2] G. K. Wallace, “The JPEG Still Picture Compression Standard,” Communications of the ACM, 1992.
+-[3] Z. Wang, A. Bovik, H. Sheikh, and E. Simoncelli, “Image Quality Assessment: From Error Visibility to Structural Similarity,” 2004.
+-[4] J. W. Goodman, Introduction to Fourier Optics, 3rd Edition, Roberts & Company, 2005.
+-[5]  An improved JPEG compression method for digital hologram based on adaptive quantization table. Lei Hu, Jinbin Gui, Xianfei Hu, Zhuojian Tong
       https://doi.org/10.1016/j.optcom.2025.131987
       
 
