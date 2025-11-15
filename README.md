@@ -58,7 +58,7 @@ This project aims to efficiently compress hologram-like images while preserving 
 - Reports storage comparison across stages  
 
 ---
-##References
+## References
 
 - [1] R. C. Gonzalez and R. E. Woods, Digital Image Processing, Pearson, 2018.
 - [2] G. K. Wallace, “The JPEG Still Picture Compression Standard,” Communications of the ACM, 1992.
